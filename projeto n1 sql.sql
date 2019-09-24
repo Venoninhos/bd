@@ -1,0 +1,1 @@
+select * from mydb.chamados where solicitante='mikael'
